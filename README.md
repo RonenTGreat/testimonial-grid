@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-using-flexbox-mobile-first-dIuIxwVun](https://www.frontendmentor.io/solutions/stats-preview-using-flexbox-mobile-first-dIuIxwVun)
-- Live Site URL: [https://mystatsproject.netlify.app/](https://mystatsproject.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-using-flexbox-mobile-first-dIuIxwVun](https://www.frontendmentor.io/solutions/testimonial-page-using-css-grid-e-xATJHfK6)
+- Live Site URL: [https://mystatsproject.netlify.app/](https://testimonialrgt.netlify.app/)
 
 ## My process
 
